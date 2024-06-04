@@ -1,0 +1,28 @@
+{
+	"Table": [
+		{
+			"title": "StoneAxe",
+			"recipe": {
+				"WoodStick": 1,
+				"Stone": 1  
+			},
+			"product": {
+				"StoneAxe": 1
+			},
+			"duration": 1000
+		}
+	],
+	
+	"Craft": [
+		{
+			"title": "LeafFiber",
+			"recipe": {
+				"TreeLeaves": 1
+			},
+			"product": {
+				"LeafFiber": 10
+			},
+			"duration": 1000
+		}
+	]
+}

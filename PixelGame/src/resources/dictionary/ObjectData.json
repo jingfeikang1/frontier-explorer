@@ -1,0 +1,112 @@
+{
+	"Bush": {
+		"hitpoints": 5,
+		"width": 40,
+		"height": 40,
+		"solid": true,
+		"drops": {
+			"LeafFiber": [3, 6]
+		},
+		"image": "TreeLeaves"
+	},
+	"DeadTree": {
+		"hitpoints": 50,
+		"width": 40,
+		"height": 40,
+		"solid": true
+	},
+	"Fern": {
+		"hitpoints": 2,
+		"width": 20,
+		"height": 20,
+		"solid": false,
+		"drops": {
+			"LeafFiber": [1, 3]
+		},
+		"image": "TreeLeaves"
+	},
+	"Player": {
+		"hitpoints": 100,
+		"width": 40,
+		"height": 40,
+		"solid": true
+	},
+	"Rock": {
+		"hitpoints": 400,
+		"width": 40,
+		"height": 40,
+		"solid": true,
+		"drops": {
+			"Stone": 6,
+			"IronOre": [0, 1]
+		}
+	},
+	"Table": {
+		"hitpoints": 90,
+		"width": 40,
+		"height": 40,
+		"solid": true,
+		"interactable": true
+	},
+	"Tree": {
+		"hitpoints": 20,
+		"width": 20,
+		"height": 20,
+		"solid": true,
+		"topDecoration": "TreeLeaves",
+		"topDecorationWidth": 80,
+		"topDecorationHeight": 80,
+		"drops": {
+			"Log": [1, 3],
+			"TreeLeaves": 2
+		}
+	},
+	
+	
+	"Berry": {
+		"width": 10,
+		"height": 10,
+		"actions": ["Eat"]
+	},
+	"Book1": {
+		"width": 20,
+		"height": 20,
+		"image": "Book",
+		"actions": ["Read"]
+	},
+	"Iron": {
+		"width": 20,
+		"height": 20
+	},
+	"IronOre": {
+		"width": 10,
+		"height": 10
+	},
+	"LeafFiber": {
+		"width": 10,
+		"height": 10
+	},
+	"Log": {
+		"width": 30,
+		"height": 30
+	},
+	"WoodStick": {
+		"width": 20,
+		"height": 20
+	},
+	"Stone": {
+		"width": 10,
+		"height": 10
+	},
+	"StoneAxe": {
+		"width": 30,
+		"height": 30
+	},
+	"TreeLeaves": {
+		"width": 20,
+		"height": 20
+	},
+	"ZZZ_System": {
+		"empty": "yes"
+	}
+}

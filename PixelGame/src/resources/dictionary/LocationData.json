@@ -1,0 +1,67 @@
+{
+	"Test": {
+		"color": "7cbd2c",
+		"size": 800,
+		"content": {
+			"Rock": 1
+		}
+	},
+	"Woods1": {
+		"color": "7cbd2c",
+		"size": 800,
+		"content": {
+			"Fern": 2,
+			"Tree": 4,
+			"Rock": 2,
+			"Bush": 2
+		}
+	},
+	"Woods2": {
+		"color": "7ab349",
+		"size": 1000,
+		"content": {
+			"Fern": 5,
+			"Tree": 15,
+			"Rock": 5,
+			"Bush": 6
+		}
+	},
+	"Woods3": {
+		"color": "7ab349",
+		"size": 1200,
+		"content": {
+			"Fern": 9,
+			"Tree": 10,
+			"Rock": 1,
+			"Bush": 6
+		}
+	},
+	"Rocks1": {
+		"color": "7cbd2c",
+		"size": 800,
+		"content": {
+			"Fern": 10,
+			"Rock": 10,
+			"Tree": 2,
+			"Bush": 2
+		}
+	},
+	"Rocks2": {
+		"color": "719e3a",
+		"size": 1000,
+		"content": {
+			"Fern": 7,
+			"Rock": 15,
+			"Bush": 2
+		}
+	},
+	"Rocks3": {
+		"color": "9abf97",
+		"size": 1200,
+		"content": {
+			"Fern": 2,
+			"Rock": 10,
+			"Bush": 2
+		}
+	}
+}
